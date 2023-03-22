@@ -1,0 +1,9 @@
+.container{
+  padding: 20px 20px;
+  flex-basis: 0;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  max-width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
